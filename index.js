@@ -5,6 +5,7 @@ function destructivelyAppendKitten(name){
 function destructivelyPrependKitten(name){
   return kittens.unshift(name)
 }
+<<<<<<< HEAD
 function destructivelyRemoveLastKitten(){
   return kittens.pop()
 }
@@ -24,3 +25,6 @@ function removeFirstKitten(){
   return kittens.slice(1)
 }
 
+=======
+function 
+>>>>>>> d434bef6586b7817dadabcb2c6950065201e516d
